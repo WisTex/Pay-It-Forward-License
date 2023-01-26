@@ -29,7 +29,7 @@ may use this Software free of charge.
 
 Any person, company, trust, non-profit, ngo, government agency, or other legal entity 
 with an income or revenue of more than US$1 million per year may only use this 
-Software if one or more of the following criteria are meet:
+Software if one or more of the following criteria are met:
 
 1. You purchase a commercial license for the Software, if available.
 
