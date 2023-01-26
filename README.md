@@ -52,8 +52,9 @@ be aware that your license does not change the terms of this license, and you mu
 include a copy of this license with the Software. You may not take any action that 
 prevents people from execising their rights or obligations under this license. 
 
-If you want to sublicense this Software and do not want to include this license
-with our Software, you MUST purchase a commercial license, if available.
+If you want to sublicense this Software and do not want to include this 
+copyright notice and permission notice in all copies or substantial portions of the 
+Software, you MUST purchase a commercial license, if available.
 
 You cannot claim that Software created by the copyright holder is yours and must 
 always give proper credit to the author(s).
