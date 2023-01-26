@@ -60,7 +60,8 @@ copyright notice and permission notice in all copies or substantial portions of 
 Software, you MUST purchase a commercial license, if available.
 
 You cannot claim that Software created by the copyright holder is yours and must 
-always give proper credit to the author(s).
+always give proper credit to the author(s). However, you may not make it look
+like the copyright holder or authors endorse you or your project.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
