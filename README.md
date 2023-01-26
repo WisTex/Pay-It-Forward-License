@@ -3,7 +3,7 @@ A license designed to give freedom while encouraging people to pay it forward.
 
 The Pay It Forward License is modeled after the expat version of the MIT License, which grants users unrestricted freedom to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
 
-However, we have added additional provisions that are designed to encourage people to pay it forward, either by contributing to the original project, or releasing any modifications they make under the Pay It Forward License.
+However, we have added additional provisions that are designed to encourage people to pay it forward, either by contributing to the original project, or releasing any modifications they make under the Pay It Forward License. If they are wealthy, they have to option of mentoring at least 10 people, and teach them how to be financially independent.
 
 ````
 Pay It Forward License - Version 1.0
