@@ -12,6 +12,7 @@ Copyright (c) 2023 {name of copyright holder}
 
 Software: {name of software}
 Website: {link to website}
+Repository: {link to repository}
 Authors: {name of authors, and/or a link to contributors}
 
 Permission is hereby granted, to any person obtaining a copy
