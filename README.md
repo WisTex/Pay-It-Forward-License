@@ -50,7 +50,7 @@ you must choose option 3 or 4.
 Although this license permits you to sublicense the Software under a different license,
 be aware that your license does not change the terms of this license, and you must 
 include a copy of this license with the Software. You may not take any action that 
-prevents people from execising their rights under this license. 
+prevents people from execising their rights or obligations under this license. 
 
 If you want to sublicense this Software and do not want to include this license
 with our Software, you MUST purchase a commercial license, if available.
