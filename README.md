@@ -31,7 +31,9 @@ Any person, company, trust, non-profit, ngo, government agency, or other legal e
 with an income or revenue of more than US$1 million per year may only use this 
 Software if one or more of the following criteria are met:
 
-1. You purchase a commercial license for the Software, if available.
+1. You purchase a commercial license for the Software or make a significant finanical
+contribution to the source project, if available. The copyright holder may set a 
+minimum contribution amount to qualifty under this provision.
 
 2. You contribute code, documentation, and other resources to the source project, 
 if accepted by the copyright holder.
