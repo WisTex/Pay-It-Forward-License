@@ -33,7 +33,7 @@ Software if one or more of the following criteria are met:
 
 1. You purchase a commercial license for the Software or make a significant finanical
 contribution to the source project, if available. The copyright holder may set a 
-minimum contribution amount to qualifty under this provision.
+reasonable minimum contribution amount to qualifty under this provision.
 
 2. You contribute code, documentation, and other resources to the source project, 
 if accepted by the copyright holder.
