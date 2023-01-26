@@ -8,7 +8,10 @@ However, we have added additional provisions that are designed to encourage peop
 ````
 Pay It Forward License - Version 1.0
 
-Copyright (c) 2023 WisTex TechSero Ltd. Co.
+Copyright (c) 2023 {name of copyright holder}
+
+Software: {name of software}
+Website: {link to website}
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -21,19 +24,19 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 Anyone making less than US$1 million dollars in income or revenue per year 
-may use this software free of charge.
+may use this Software free of charge.
 
 Any person, company, trust, non-profit, ngo, government agency, or other legal entity 
 with an income or revenue of more than US$1 million per year may only use this 
-software if one or more of the following criteria are meet:
+Software if one or more of the following criteria are meet:
 
-1. You purchase a commercial license for the software, if available.
+1. You purchase a commercial license for the Software, if available.
 
-2. You contribute code, documentation, and other resources to the project, 
+2. You contribute code, documentation, and other resources to the source project, 
 if accepted by the copyright holder.
 
 3. You release and make publicly available any and all modifications and enhancements 
-that you make to the software, and make it available under the Pay It Forward License.
+that you make to the Software, and make it available under the Pay It Forward License.
 You must attempt to notify the copyright holder so they can download, view, and use it.
 
 4. You mentor at least 10 people, at no cost to them, and they make 10 times 
@@ -44,7 +47,7 @@ You only have to pick one of the above if you make more than US$1 million per ye
 but we encourage you to do more. If option 1 and 2 are not available, 
 you must choose option 3 or 4.
 
-Although this license permits you to sublicense the software under a different license,
+Although this license permits you to sublicense the Software under a different license,
 be aware that your license does not change the terms of this license, and you must 
 include a copy of this license with the Software. You may not take any action that 
 prevents people from execising their rights under this license. 
